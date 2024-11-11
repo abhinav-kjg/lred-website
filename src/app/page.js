@@ -8,6 +8,8 @@ import EthossSection from "@/Components/EthosSection";
 import ContactFormSection from "@/Components/ContactFormSection";
 import TestimonialSection from "@/Components/Testimonials";
 
+export const runtime = "edge";
+
 export default function Home() {
     return (
         // <BannerPage />
